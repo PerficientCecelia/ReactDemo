@@ -1,0 +1,15 @@
+.idea/
+node_modules/
+temp_nexus_IQ
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+*.swp
+.env
+coverage/
+package-lock.json
+tmp/
+.DS_Store
+src/.DS_Store
